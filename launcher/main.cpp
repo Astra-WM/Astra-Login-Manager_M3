@@ -19,8 +19,8 @@
 #include <sys/wait.h>
 #include <unistd.h>
 
-#ifndef ASTRA_AIRLOCK_VERSION
-#define ASTRA_AIRLOCK_VERSION "unknown"
+#ifndef ASTRA_LOGIN_MANAGER_VERSION
+#define ASTRA_LOGIN_MANAGER_VERSION "unknown"
 #endif
 
 namespace {
