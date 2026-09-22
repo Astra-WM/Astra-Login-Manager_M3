@@ -2,7 +2,7 @@
   <img src="assets/astra-airlock.svg" width="140" alt="Airlock Logo">
 </p>
 
-<h1 align="center">Airlock</h1>
+<h1 align="center">Astra-Airlock Fork</h1>
 
 A modern, fluid Material 3 frontend for **[greetd](https://git.sr.ht/~kennylevinsen/greetd)**, crafted with **[Quickshell](https://quickshell.outfoxxed.me/)** and Qt6 to seamlessly match Caelestia's **[shell](https://github.com/caelestia-dots/shell)**.
 
